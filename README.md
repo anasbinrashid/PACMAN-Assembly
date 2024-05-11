@@ -26,4 +26,14 @@ This game features three levels with different layouts, portals, and challenges 
 # Controls
 
 - Arrow Keys: Move Pac-Man (Up, Down, Left, Right)
-- Spacebar: Pause/Resume Game
+- Spacebar: Pause/Resume
+
+# Contributing
+
+I welcome contributions from the community to enhance the functionality and design of our online store frontend. If you'd like to contribute, please follow these steps:
+
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Make your changes and ensure the code passes any existing tests.
+- Test your changes locally to ensure they work as expected.
+- Submit a pull request with a clear description of your changes and why they're necessary.
