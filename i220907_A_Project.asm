@@ -7,7 +7,7 @@ PlaySound proto, pszsound:ptr byte, hmod:dword, fdwsound:dword
 
     deviceconnect db "DeviceConnect",0
     snd_alias dd 00010000h
-    soundfile db "C:\Users\Lenovo\Downloads\Pac-Man-Theme-Song.wav",0
+    soundfile db "Add your Path\Pac-Man-Theme-Song.wav",0
     
     filename db "PlayerScores.txt"
     filehandle handle ?
