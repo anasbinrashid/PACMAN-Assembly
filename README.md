@@ -14,7 +14,7 @@ This game features three levels with different layouts, portals, and challenges 
 
 # Prerequisites
 
-- DOS emulator or environment for running assembly programs.
+DOS emulator or environment for running assembly programs.
  
 # Gameplay
 
