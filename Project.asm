@@ -152,7 +152,7 @@ takeinput PROC
 
     call clrscr
 
-    mov eax, yellow (lightred*16)
+    mov eax, yellow
     call settextcolor
 
     mov dl, 15
